@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11488" started-at="2020-03-11T20:36:20Z" finished-at="2020-03-11T20:36:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11488" started-at="2020-03-11T20:36:20Z" finished-at="2020-03-11T20:36:31Z">
+      <class name="com.cts.CustomerDetailsSubmitTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.cts.CustomerDetailsSubmitTest@7d68ef40]" name="beforeTest" is-config="true" duration-ms="6892" started-at="2020-03-11T20:36:20Z" finished-at="2020-03-11T20:36:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="checkWhetherThePlanIsNotExpired()[pri:0, instance:com.cts.CustomerDetailsSubmitTest@7d68ef40]" name="checkWhetherThePlanIsNotExpired" duration-ms="1541" started-at="2020-03-11T20:36:27Z" finished-at="2020-03-11T20:36:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWhetherThePlanIsNotExpired -->
+        <test-method status="PASS" signature="testInvalidRechargeDateException()[pri:0, instance:com.cts.CustomerDetailsSubmitTest@7d68ef40]" name="testInvalidRechargeDateException" duration-ms="980" started-at="2020-03-11T20:36:28Z" finished-at="2020-03-11T20:36:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidRechargeDateException -->
+        <test-method status="PASS" signature="testWhetherMobileNoIsValid()[pri:0, instance:com.cts.CustomerDetailsSubmitTest@7d68ef40]" name="testWhetherMobileNoIsValid" duration-ms="842" started-at="2020-03-11T20:36:29Z" finished-at="2020-03-11T20:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWhetherMobileNoIsValid -->
+        <test-method status="PASS" signature="testWhetherUserNameIsValid()[pri:0, instance:com.cts.CustomerDetailsSubmitTest@7d68ef40]" name="testWhetherUserNameIsValid" duration-ms="1170" started-at="2020-03-11T20:36:30Z" finished-at="2020-03-11T20:36:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWhetherUserNameIsValid -->
+      </class> <!-- com.cts.CustomerDetailsSubmitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
